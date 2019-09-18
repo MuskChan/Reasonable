@@ -14,8 +14,8 @@ class SeedCategoriesData extends Migration
                 'description' => '分享创造，分享发现',
             ],
             [
-                'name'        => '教程',
-                'description' => '开发技巧、推荐扩展包等',
+                'name'        => '人民日报文摘',
+                'description' => '人民日报文摘、人民日报读后感等',
             ],
             [
                 'name'        => '问答',
