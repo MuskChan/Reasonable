@@ -47,7 +47,7 @@ return [
 
     'messages' => [
         'site_name.required' => '请填写站点名称。',
-        'contact_email.email' => '请填写正确的联系人邮箱格式。',
+        'contact_email.email' => 'musk.chan.c@gmail.com',
     ],
 
     // 数据即将保持的触发的钩子，可以对用户提交的数据做修改
